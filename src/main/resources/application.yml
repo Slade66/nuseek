@@ -1,6 +1,6 @@
 spring:
   application:
-    name: nowcoder-insight
+    name: nuseek
   datasource:
     username: root
     password: 123456

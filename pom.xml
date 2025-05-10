@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.slade66</groupId>
-    <artifactId>nowcoder-insight</artifactId>
+    <artifactId>nuseek</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>nowcoder-insight</name>
-    <description>nowcoder-insight</description>
+    <name>nuseek</name>
+    <description>nuseek</description>
     <url/>
     <licenses>
         <license/>
